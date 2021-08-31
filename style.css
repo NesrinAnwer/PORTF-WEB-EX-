@@ -1,0 +1,85 @@
+body{
+    margin:0;
+    padding:0;
+    font-family: Segoe Script;
+    background: linear-gradient(rgb(247,101,137),rgb(247, 137, 73));
+    opacity:0-5%;
+    
+    
+}
+.center{
+    width:100%;
+
+}
+.intro{
+    text-align:center;
+}
+
+h1{
+    font-size:80px;
+     color:rgb(3, 0, 0);
+     
+
+}
+h5{
+    font-size:30px;
+    text-transform:uppercase;
+    color:rgba(5, 47, 126,0.5);
+    letter-spacing: 5px;
+    font-style:normal;
+}
+h2{
+    text-align:center;
+    color:rgb(4, 17, 77);
+
+}
+.img-prof1{
+    width:500px;
+    border:10px solid rgb(250, 245, 245);
+}
+ 
+.img-prof2{
+    width:50%;
+    margin: 1px auto;
+    display:block;
+    border:5px solid rgb(15, 31, 25);
+    border-radius: 50px;
+}
+.img-prof3{
+    margin:2px auto;
+    width:50%;
+    display:block;
+    margin-top:10px ;
+    border:5px solid rgb(44, 48, 54);
+    border-radius: 50px;
+}
+.features{
+    color:wheat;
+    padding:10px 20px;
+    
+}
+.features figure{
+    text-align: center;
+    color: rgb(10, 105, 105);
+}
+.features figure img{
+    width:100 px;
+    border-radius:10px;
+    
+}
+a{
+    color:rgb(10, 10, 10);
+    
+}
+.forpass a{
+
+    color:rgb(12, 5, 70);
+    text-decoration:none;
+    cursor:pointer;
+    text-align:center;
+}
+.forpass a:hover{
+    text-decoration:underline;
+    color:rgb(35, 114, 3);
+    transition:0.2s;
+}
